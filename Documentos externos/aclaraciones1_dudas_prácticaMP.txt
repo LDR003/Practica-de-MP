@@ -1,0 +1,20 @@
+ambos tienen que tener equipo activo para poder pegarse
+
+se puede postar cero, se fija una cantidad fija
+
+ranking por victorias
+
+sólo tengo un personaje, pero el pripio usuario puede borrarlo y cumplir otro
+
+PASOS
+ retas a alguien
+ acepta el reto
+ después de esto, lo revisa el administrador
+
+SISTEMA: registrarse y login. Tenemos inciar sesión y registrarse
+
+ELEGIR si la cuenta debe de ser de ususario o de administrador
+
+
+
+
